@@ -1,0 +1,1 @@
+import{a as t,t as e}from"../chunks/disclose-version.CV1lILU2.js";import{$ as r}from"../chunks/runtime.CUuf5rZP.js";import{h as s}from"../chunks/svelte-head.Br0tEYjS.js";var m=e("<h1>Sesiones</h1>");function c(o){var a=m();s(n=>{r.title="Sessions"}),t(o,a)}export{c as component};

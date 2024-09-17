@@ -1,0 +1,1 @@
+import{a,t as r}from"../chunks/disclose-version.CV1lILU2.js";import{$ as e}from"../chunks/runtime.CUuf5rZP.js";import{h as m}from"../chunks/svelte-head.Br0tEYjS.js";var n=r("<h1>Contacto</h1>");function s(o){var t=n();m(p=>{e.title="Contact"}),a(o,t)}export{s as component};
