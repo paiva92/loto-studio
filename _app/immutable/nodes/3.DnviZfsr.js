@@ -1,0 +1,1 @@
+import{a,t as r}from"../chunks/disclose-version.BFb10zlE.js";import{$ as e}from"../chunks/runtime.CvrPRvF3.js";import{h as m}from"../chunks/svelte-head.Dr8-iqpX.js";var p=r("<h1>Sobre mi</h1>");function c(o){var t=p();m(n=>{e.title="About"}),a(o,t)}export{c as component};
