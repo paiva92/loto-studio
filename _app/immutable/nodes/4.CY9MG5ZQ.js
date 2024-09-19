@@ -1,0 +1,1 @@
+import{b as o,t as e}from"../chunks/disclose-version.q302V19N.js";import{$ as i}from"../chunks/runtime.ZMxBcHuI.js";import{h as n}from"../chunks/svelte-head.Wx3B0Q6W.js";var r=e('<div class="title animate delay-1 svelte-1ivw64i"><h1 class="dancing svelte-1ivw64i">Contacto</h1></div>');function v(t){var a=r();n(s=>{i.title="Contact"}),o(t,a)}export{v as component};
